@@ -29,7 +29,7 @@ A simple Java-based command-line application for shortening URLs. This applicati
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/link-shortener.git
+   git clone https://github.com/CodeLychee/link-shortener.git
    cd link-shortener
    ```
 
@@ -73,8 +73,4 @@ Feel free to submit pull requests, report issues, or suggest features to improve
 
 ## Contact
 
-For any questions or suggestions, please contact `your-email@example.com`.
-
----
-
-Replace `your-username` and `your-email@example.com` with your actual GitHub username and contact email before using this README.
+For any questions or suggestions, please contact `watermelonpumpkin67@gmail.com`.
